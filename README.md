@@ -79,4 +79,4 @@ To become a **Machine Learning Engineer** by building real-world ML systems and 
 
 ---
 
-⭐ *Always building. Always learning.*
+⭐ Always building. Always learning.
