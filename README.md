@@ -46,10 +46,7 @@ I enjoy building **complete ML systems (data → model → prediction → UI/Dep
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## ⚙️ Backend (Supporting Skills)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+---
 
 # 💻 Other Tools
 
@@ -70,16 +67,24 @@ I enjoy building **complete ML systems (data → model → prediction → UI/Dep
 
 👉 **Movie Recommendation System (Deployed ML App)**
 
-* Built a content-based recommendation system
-* Integrated TMDB API for posters, ratings & metadata
-* Developed interactive UI using Streamlit
-* Deployed on cloud (Streamlit Cloud)
+* Built a content-based recommendation system  
+* Integrated TMDB API for posters, ratings & metadata  
+* Developed interactive UI using Streamlit  
+* Deployed on cloud (Streamlit Cloud)  
 
 ---
 
 ## 🎯 Goal:
 
 To become a **Machine Learning Engineer / Data Scientist** by building scalable, real-world ML systems and deploying them.
+
+---
+
+## ⚡ Additional Skills:
+
+* MERN Stack Developer (MongoDB, Express.js, React, Node.js)
+* Backend Development (Node.js, REST APIs)
+* Basic Web Development & Full Stack Concepts
 
 ---
 
