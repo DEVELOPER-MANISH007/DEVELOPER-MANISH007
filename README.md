@@ -1,102 +1,82 @@
-# 👋 Hi, I'm Manish Kumar
+# 💫 About Me:
 
-### 🚀 Machine Learning Engineer | Data Scientist | Python Developer
+🚀 I’m a **Machine Learning & Data Science Enthusiast** passionate about building intelligent, real-world systems.
 
-I'm passionate about building **production-ready Machine Learning applications** that solve real-world problems using data, intelligent models, and modern deployment tools.
+🧠 Currently building:
 
----
+* End-to-End ML Projects (Data → Preprocessing → Model → Deployment)
+* Data-driven applications using Python, Pandas & Scikit-learn
 
-## 🚀 Currently Working On
+🌱 Currently learning:
 
-* 🤖 End-to-End Machine Learning Projects
-* 📊 Data Analysis & Visualization
-* ⚙️ Model Training & Optimization
-* 🌐 ML Model Deployment with Streamlit
-* 🧠 Exploring Deep Learning & MLOps
+* Advanced Machine Learning & Model Optimization
+* Deployment of ML Models (Streamlit, APIs)
+* Data Analysis & Visualization techniques
 
----
+💬 Ask me about:
 
-## 💬 Ask Me About
+* Machine Learning (Scikit-learn, Pipelines, Model Evaluation)
+* Data Science (Data Cleaning, Feature Engineering, EDA)
+* Python for Data Processing & ML Applications
 
-**Python • Machine Learning • Data Science • EDA • Scikit-Learn • Streamlit • Feature Engineering • Model Evaluation**
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_PORTFOLIO)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](YOUR_KAGGLE)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manish8755026341@gmail.com)
+⚡ Fun fact:
+I enjoy building **complete ML systems (data → model → prediction → UI/Deployment)** 🚀🔥
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Data Science & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish.daksh_07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitansh-kumar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish8755026341@gmail.com)
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Tech Stack:
 
-### 🎬 Movie Recommendation System
+## 🚀 Data Science & Machine Learning
 
-* Content-Based Recommendation Engine
-* TMDB API Integration
-* Streamlit Deployment
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🏠 House Price Prediction
+## 💻 Data Tools
 
-* End-to-End ML Pipeline
-* Feature Engineering
-* Streamlit App
-
-### 📊 Student Performance Prediction
-
-* Data Preprocessing
-* ML Pipeline
-* Model Evaluation
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-# 📈 GitHub Analytics
+# 💻 Other Tools
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVELOPER-MANISH007&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DEVELOPER-MANISH007&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPER-MANISH007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 
-# 🎯 Career Objective
+## 🚀 Featured Project:
 
-Aspiring **Machine Learning Engineer** passionate about building scalable AI solutions and continuously learning modern Machine Learning technologies.
+👉 **Movie Recommendation System (Deployed ML App)**
+
+* Built a content-based recommendation system  
+* Integrated TMDB API for posters, ratings & metadata  
+* Developed interactive UI using Streamlit  
+* Deployed on cloud (Streamlit Cloud)  
 
 ---
 
-> **"Turning Data into Intelligent Solutions." 🚀**
+## 🎯 Goal:
+
+To become a **Machine Learning Engineer / Data Scientist** by building scalable, real-world ML systems and deploying them.
+
+---
+
+## ⚡ Additional Skills:
+
+* MERN Stack Developer (MongoDB, Express.js, React, Node.js)
+* Backend Development (Node.js, REST APIs)
+* Basic Web Development & Full Stack Concepts
+
+---
+
+⭐ Always building. Always learning. ye le apne hisab se uppdate kr de bro
