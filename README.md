@@ -215,8 +215,7 @@ class ManishKumar:
 <p align="center">
   <img src="https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=arnav7777&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
 
 ## 💬 Ask Me About
 
