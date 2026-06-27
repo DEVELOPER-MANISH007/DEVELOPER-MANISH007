@@ -91,13 +91,7 @@ I'm passionate about building **production-ready Machine Learning applications**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPER-MANISH007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=DEVELOPER-MANISH007\&theme=tokyonight\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 # 🎯 Career Objective
 
