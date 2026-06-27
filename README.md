@@ -215,46 +215,8 @@ class ManishKumar:
 <p align="center">
   <img src="https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-<details>
-<summary>⚙️ Click to setup Snake Animation</summary>
-
-**Step 1:** Go to `github.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007`
-
-**Step 2:** Create file `.github/workflows/snake.yml` and paste:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DEVELOPER-MANISH007
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** `Settings → Actions → General → Read & write permissions ✅`
-
-**Step 4:** `Actions tab → Generate Snake → Run workflow`
-
-</details>
-
-</div>
-
----
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=arnav7777&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💬 Ask Me About
 
