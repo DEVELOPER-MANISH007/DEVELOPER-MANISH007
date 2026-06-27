@@ -142,33 +142,7 @@ class ManishKumar:
 
 </div>
 
-<!--
-name: Generate Pac-Man
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: buluma/github-action-pacman@v0.0.2
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: DEVELOPER-MANISH007
-          TARGET_BRANCH: output
-          TARGET_PATH: pacman-contribution.svg
--->
 
----
-
-<div align="center">
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ### ⭐ *"Turning Data into Intelligent Solutions."*
 
