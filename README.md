@@ -210,10 +210,11 @@ class ManishKumar:
 ## 🐍 Contribution Snake
 
 <div align="center">
+## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 <details>
 <summary>⚙️ Click to setup Snake Animation</summary>
 
