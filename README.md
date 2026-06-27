@@ -1,82 +1,114 @@
-# 💫 About Me:
+# 👋 Hi, I'm Manish Kumar
 
-🚀 I’m a **Machine Learning & Data Science Enthusiast** passionate about building intelligent, real-world systems.
+### 🚀 Machine Learning Engineer | Data Scientist | Python Developer
 
-🧠 Currently building:
+I'm passionate about building **end-to-end Machine Learning applications** that solve real-world problems—from raw data to deployed intelligent systems.
 
-* End-to-End ML Projects (Data → Preprocessing → Model → Deployment)
-* Data-driven applications using Python, Pandas & Scikit-learn
+I enjoy transforming data into actionable insights and deploying scalable ML solutions with clean, production-ready workflows.
 
-🌱 Currently learning:
+---
 
-* Advanced Machine Learning & Model Optimization
-* Deployment of ML Models (Streamlit, APIs)
-* Data Analysis & Visualization techniques
+# 💡 What I Do
 
-💬 Ask me about:
+* 🤖 Build End-to-End Machine Learning Projects
+* 📊 Perform Data Cleaning, Feature Engineering & EDA
+* ⚙️ Train, Evaluate & Optimize ML Models
+* 🌐 Deploy ML Applications using Streamlit & REST APIs
+* 📈 Create Interactive Data Visualizations & Dashboards
+
+---
+
+# 🌱 Currently Exploring
+
+* Advanced Machine Learning Algorithms
+* Model Optimization & Hyperparameter Tuning
+* Deep Learning Fundamentals
+* MLOps & Docker
+* FastAPI for ML Deployment
+
+---
+
+# 💬 Ask Me About
 
 * Machine Learning (Scikit-learn, Pipelines, Model Evaluation)
-* Data Science (Data Cleaning, Feature Engineering, EDA)
-* Python for Data Processing & ML Applications
-
-⚡ Fun fact:
-I enjoy building **complete ML systems (data → model → prediction → UI/Deployment)** 🚀🔥
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manish.daksh_07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitansh-kumar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manish8755026341@gmail.com)
+* Data Science (EDA, Data Cleaning, Feature Engineering)
+* Python Automation & Data Processing
+* Streamlit Deployment
+* Building End-to-End ML Applications
 
 ---
 
-# 🧠 Tech Stack:
+# 🌐 Connect With Me
 
-## 🚀 Data Science & Machine Learning
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 💻 Data Tools
-
-![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%230077B5.svg?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mitansh-kumar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/manish.daksh_07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manish8755026341@gmail.com)
 
 ---
 
-# 💻 Other Tools
+# 🛠 Tech Stack
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
+## Data Science & Machine Learning
 
-## 🚀 Featured Project:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-👉 **Movie Recommendation System (Deployed ML App)**
+## Deployment & Development
 
-* Built a content-based recommendation system  
-* Integrated TMDB API for posters, ratings & metadata  
-* Developed interactive UI using Streamlit  
-* Deployed on cloud (Streamlit Cloud)  
-
----
-
-## 🎯 Goal:
-
-To become a **Machine Learning Engineer / Data Scientist** by building scalable, real-world ML systems and deploying them.
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## ⚡ Additional Skills:
+# 🚀 Featured Projects
 
-* MERN Stack Developer (MongoDB, Express.js, React, Node.js)
-* Backend Development (Node.js, REST APIs)
-* Basic Web Development & Full Stack Concepts
+### 🎬 Movie Recommendation System
+
+* Content-Based Recommendation Engine
+* TMDB API Integration
+* Interactive Streamlit Web App
+* Cloud Deployment
+
+### 🏠 House Price Prediction
+
+* Complete Machine Learning Pipeline
+* Data Preprocessing
+* Model Training
+* Streamlit Deployment
+
+### 📊 Student Performance Prediction
+
+* End-to-End ML Workflow
+* Feature Engineering
+* Pipeline Implementation
+* Model Evaluation
 
 ---
 
-⭐ Always building. Always learning.
+# 🎯 Career Objective
+
+Aspiring **Machine Learning Engineer** focused on building scalable AI solutions, deploying production-ready ML applications, and continuously learning modern AI technologies.
+
+---
+
+# ⚡ Additional Skills
+
+* MERN Stack Development
+* REST API Development
+* Backend Development
+* SQL
+* Problem Solving
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (Basic)
+
+---
+
+### ⭐ "Turning Data into Intelligent Solutions."
