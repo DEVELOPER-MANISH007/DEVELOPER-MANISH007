@@ -23,7 +23,7 @@
 
 ```python
 class ManishKumar:
-    name       = "Manish Kumar"
+    name       = "Manish Kumar"a
     role       = "ML Engineer | Data Scientist | Python Developer"
     location   = "India 🇮🇳"
     focus      = ["End-to-End ML Applications", "MLOps", "Scalable AI Systems"]
@@ -126,7 +126,7 @@ class ManishKumar:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DEVELOPER-MANISH007&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DEVELOPER-MANISH007&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -136,9 +136,43 @@ class ManishKumar:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg)
+<!-- After setting up the GitHub Action below, this SVG will auto-generate -->
+![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
+
+<!-- 
+  ⚙️ SNAKE SETUP (one-time):
+  1. Go to your repo: github.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007
+  2. Create file: .github/workflows/snake.yml
+  3. Paste this content:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DEVELOPER-MANISH007
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  4. Go to Settings > Actions > General > set "Read and write permissions" > Save
+  5. Run the Action manually once from Actions tab
+-->
 
 ---
 
