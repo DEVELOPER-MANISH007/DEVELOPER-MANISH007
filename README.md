@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=manishkumar&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=DEVELOPER-MANISH007&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -87,19 +87,26 @@ class ManishKumar:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Data Science Skill Meter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+| Skill | Proficiency |
+|-------|-------------|
+| 🐍 Python | ![90%](https://progress-bar.xyz/90/?scale=100&title=Python&width=300&color=3670A0&suffix=%) |
+| 🤖 Machine Learning | ![85%](https://progress-bar.xyz/85/?scale=100&title=Machine+Learning&width=300&color=F7931E&suffix=%) |
+| 📊 Data Analysis & EDA | ![88%](https://progress-bar.xyz/88/?scale=100&title=Data+Analysis&width=300&color=150458&suffix=%) |
+| 🧠 Deep Learning | ![70%](https://progress-bar.xyz/70/?scale=100&title=Deep+Learning&width=300&color=FF6F00&suffix=%) |
+| 🌐 Streamlit & Flask | ![80%](https://progress-bar.xyz/80/?scale=100&title=Deployment&width=300&color=FF4B4B&suffix=%) |
+| 👁️ Computer Vision | ![65%](https://progress-bar.xyz/65/?scale=100&title=Computer+Vision&width=300&color=5C3EE8&suffix=%) |
+| 📈 Power BI & Visualization | ![75%](https://progress-bar.xyz/75/?scale=100&title=Power+BI&width=300&color=F2C811&suffix=%) |
+| 🐳 Docker & MLOps | ![60%](https://progress-bar.xyz/60/?scale=100&title=MLOps&width=300&color=0db7ed&suffix=%) |
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manishkumar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DEVELOPER-MANISH007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +126,7 @@ class ManishKumar:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manishkumar&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DEVELOPER-MANISH007&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -129,7 +136,7 @@ class ManishKumar:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/manishkumar/manishkumar/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
