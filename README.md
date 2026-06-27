@@ -164,6 +164,11 @@ jobs:
 ---
 
 <div align="center">
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEVELOPER-MANISH007/DEVELOPER-MANISH007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ### ⭐ *"Turning Data into Intelligent Solutions."*
 
