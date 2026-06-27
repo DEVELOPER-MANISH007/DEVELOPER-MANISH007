@@ -52,15 +52,7 @@ I enjoy building **complete ML systems (data → model → prediction → UI/Dep
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=DEVELOPER-MANISH007&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DEVELOPER-MANISH007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVELOPER-MANISH007&theme=dark&layout=compact)
-
----
 
 ## 🚀 Featured Project:
 
