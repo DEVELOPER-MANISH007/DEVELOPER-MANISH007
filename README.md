@@ -251,6 +251,6 @@ class ManishKumar:
 
 ### ⭐ *"Turning Data into Intelligent Solutions."*
 
-**If you like my work, drop a ⭐ on my repos — it means a lot! 😊**
+**If you Like my work, drop a ⭐ on my repos   it means a lot! 😊**
 
 </div>
