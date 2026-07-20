@@ -55,7 +55,7 @@ class ManishKumar:
     ]
 
     fun_fact     = "I turn messy data into clean insights ☕📊"
-    goal         = "Build production-ready AI systems that solve real problems 🚀"
+    goal         = "Build production-ready AI systems that solve real problems 🚀 "
     quote        = "Turning Data into Intelligent Solutions 💡"
 ```
 
@@ -151,7 +151,7 @@ class ManishKumar:
 > Complete ML Pipeline from Data Cleaning to Web Deployment
 
 ```
-📌 Key Highlights:
+📌 Key Highlights::
    ✅ Full data preprocessing & feature engineering pipeline
    ✅ Multiple regression models compared & evaluated
    ✅ Hyperparameter tuning with GridSearchCV
