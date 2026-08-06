@@ -136,7 +136,7 @@ class ManishKumar:
 ```
 📌 Key Highlights:
    ✅ Content-based recommendation using cosine similarity
-   ✅ TMDB API integration for real-time movie posters
+   ✅ TMDB API integration for real-time movie posters.
    ✅ Interactive Streamlit web app
    ✅ Deployed on Streamlit Cloud
 ```
@@ -171,8 +171,8 @@ class ManishKumar:
 📌 Key Highlights:
    ✅ In-depth EDA & statistical analysis
    ✅ Feature engineering & selection
-   ✅ ML pipeline implementation with Scikit-learn
-   ✅ Model evaluation with cross-validation
+   ✅ ML pipeline implementation with Scikit-learn.
+   ✅ Model evaluation with cross-validation.
 ```
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![EDA](https://img.shields.io/badge/EDA-brightgreen?style=flat-square)
