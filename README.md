@@ -249,8 +249,8 @@ class ManishKumar:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-### ⭐ *"Turning Data into Intelligent Solutions."*
+### ⭐ *"Turning Data into Intelligent Solutions "*
 
-**If you Like my work, drop a ⭐ on my repos   it means a lot! 😊**
+**If you Like my work, drop a ⭐ on my repos   it means a lot  😊**
 
 </div>
