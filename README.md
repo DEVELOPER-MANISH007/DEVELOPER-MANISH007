@@ -56,7 +56,7 @@ class ManishKumar:
 
     fun_fact     = "I turn messy data into clean insights ☕📊"
     goal         = "Build production-ready AI systems that solve real problems 🚀 "
-    quote        = "Turning Data into Intelligent Solutions 💡"
+    quote        = "Turning Data into Intelligent Solutions "
 ```
 
 ---
