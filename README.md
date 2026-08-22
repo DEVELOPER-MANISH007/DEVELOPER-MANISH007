@@ -221,9 +221,9 @@ class ManishKumar:
 
 <div align="center">
 
-`Machine Learning` `Scikit-learn` `Pandas` `NumPy` `EDA` `Feature Engineering`
-`Data Cleaning` `Model Evaluation` `Streamlit` `Flask` `OpenCV` `TensorFlow`
-`Python Automation` `Power BI` `SQL` `End-to-End ML Apps` `Docker`
+`Machine Learning` `Scikit-learn` `Pandas` `NumPy` `EDA` `Feature Engineering.`
+`Data Cleaning` `Model Evaluation` `Streamlit` `Flask` `OpenCV` `TensorFlow.`
+`Python Automation` `Power BI` `SQL` `End-to-End ML Apps` `Docker.`
 
 </div>
 
