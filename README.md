@@ -169,8 +169,8 @@ class ManishKumar:
 
 ```
 📌 Key Highlights:
-   ✅ In-depth EDA & statistical analysis
-   ✅ Feature engineering & selection
+   ✅ In-depth EDA & statistical analysis.
+   ✅ Feature engineering & selection.
    ✅ ML pipeline implementation with Scikit-learn.
    ✅ Model evaluation with cross-validation.
 ```
@@ -229,7 +229,7 @@ class ManishKumar:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me!!
 
 <div align="center">
 
@@ -251,6 +251,6 @@ class ManishKumar:
 
 ### ⭐ *"Turning Data into Intelligent Solutions "*
 
-**If you Like my work, drop a ⭐ on my repos   it means a lot 😊**
+**If you Like My Work, drop a ⭐ on my repos   it means a lot 😊**
 
 </div>
