@@ -189,9 +189,9 @@ quote        = "Turning Data into Intelligent Solutions "
 | 🔭 | Topic | Status |
 |:---:|:---|:---:|
 | 🧠 | Advanced ML Algorithms & Model Optimization | 🔄 In Progress |
-| ⚙️ | Hyperparameter Tuning & AutoML | 🔄 In Progress |
-| 🔬 | Deep Learning with TensorFlow | 🔄 In Progress |
-| 🐳 | MLOps, Docker & CI/CD for ML | 📖 Learning |
+| ⚙️ | Hyperparameter Tuning & AutoML. | 🔄 In Progress. |
+| 🔬 | Deep Learning with TensorFlow. | 🔄 In Progress. |
+| 🐳 | MLOps, Docker & CI/CD for ML. | 📖 Learning. |
 | 🌐 | Flask & Streamlit for Production Deployment | ✅ Ongoing |
 
 </div>
